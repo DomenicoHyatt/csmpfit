@@ -2,12 +2,12 @@
 [![NuGet](https://img.shields.io/nuget/dt/csmpfit.svg)](https://www.nuget.org/packages/csmpfit/)
 [![Join the chat at https://gitter.im/cureos/csmpfit](https://badges.gitter.im/cureos/csmpfit.svg)](https://gitter.im/cureos/csmpfit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-# Project Description
+! Project Description
 
 A C# port of the C-based [mpfit Levenberg Marquardt solver](http://cow.physics.wisc.edu/~craigm/idl/cmpfit.html) at Argonne National Labs, including desktop .NET (2.0 and higher), .NET Standard 1.0 and 2.0 libraries.
 
 # Credits
-*csmpfit* is based on the following IDL and C mpfit libraries:
+!csmpfit! is based on the following IDL and C mpfit libraries:
 
 Details:	Levenberg-Marquardt nonlinear optimization library  
 Website:	http://www.physics.wisc.edu/~craigm/idl/idl.html  
@@ -27,3 +27,4 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+ 
